@@ -11,26 +11,26 @@ Once you’ve got your head around replacing animal products with alternative so
 
 Still struggling to imagine how it all comes together? Here’s an example:
 
-### Breakfast 
+### Breakfast
 
 Porridge made with fortified plant milk and topped with ground linseed (flaxseed) and your favourite fruit, plus a small glass (150ml) of orange juice
 
-### Lunch 
+### Lunch
 
 Moroccan-style wholemeal couscous salad with chickpeas, spinach and chopped dried apricots
 
-### Evening meal 
+### Evening meal
 
 Bean and roasted pepper chilli with a jacket potato followed by fortified yoghurt alternative with your favourite fruit
 
-### Snacks and drinks 
+### Snacks and drinks
 
 Handful of cashew nuts
 Slice of wholemeal toast and peanut butter
 Plenty of water
 A mug of warm fortified plant milk with a little ginger, turmeric and cinnamon added for flavour
 
-### Supplementation 
+### Supplementation
 
 VEG 1
 

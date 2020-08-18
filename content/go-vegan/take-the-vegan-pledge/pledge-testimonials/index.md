@@ -11,7 +11,7 @@ More people than ever are going vegan thanks to our improved [30 Day Vegan Pledg
 >
 > *- Pledger from Sacramento, California*
 
-> "I'd like to thank you for your support in helping me transition to veganism. Your daily emails were really helpful and informative, but they were more than just that. Since I don't know any other vegans, these emails were like having a support group and I don't know how well I would have done without them. So thank you so much!" 
+> "I'd like to thank you for your support in helping me transition to veganism. Your daily emails were really helpful and informative, but they were more than just that. Since I don't know any other vegans, these emails were like having a support group and I don't know how well I would have done without them. So thank you so much!"
 >
 > *- Nadir Ismail*
 

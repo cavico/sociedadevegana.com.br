@@ -3,7 +3,7 @@ title: "Environment"
 date: 2020-07-25T17:40:32-03:00
 draft: true
 ---
-## How your diet could change the world 
+## How your diet could change the world
 
 While the world’s population has doubled since the 1960s, world meat production [has quadrupled](http://www.fao.org/docrep/016/ap106e/ap106e.pdf). In certain areas, livestock production has increased massively; there are now [4 and a half times](http://faostat3.fao.org/browse/rankings/commodities_by_regions/E) as many tonnes of pig produced in 2013 compared to 1961, while world chicken production has increased by nearly [13 times](http://faostat3.fao.org/browse/rankings/commodities_by_regions/E).
 
@@ -19,7 +19,7 @@ If we are trying to reduce our car use, limit the amount of water we waste, beco
 
 Studies indicate that a varied vegan diet requires about a third of the land needed for conventional Western diets....[(Read more)](https://www.vegansociety.com/go-vegan/environment/food-security)
 
- 
+
 
 [![img](https://www.vegansociety.com/sites/default/files/styles/teaser_image/public/shutterstock_380538040.jpg?itok=DB3Da_Ck)](https://www.vegansociety.com/go-vegan/environment/water-requirements)
 

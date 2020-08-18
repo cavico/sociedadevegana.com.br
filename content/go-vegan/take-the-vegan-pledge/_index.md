@@ -3,13 +3,13 @@ title: "Take the Vegan Pledge"
 date: 2020-07-25T17:40:32-03:00
 draft: true
 ---
-## Go vegan in 30 days with the 30 Day Vegan Pledge 
+## Go vegan in 30 days with the 30 Day Vegan Pledge
 
-Everyone wants to feel healthier, lighter and more vibrant. Couple these fantastic benefits with the knowledge that you can also do your best for animals around the world, as well as reducing your effect on the environment. There is a simple action you can take that will have a positive effect not just on you but on many other lives. 
+Everyone wants to feel healthier, lighter and more vibrant. Couple these fantastic benefits with the knowledge that you can also do your best for animals around the world, as well as reducing your effect on the environment. There is a simple action you can take that will have a positive effect not just on you but on many other lives.
 
 **Sign up via email using the form below** and for 30 days you’ll receive advice on all aspects of a vegan diet (including lots of healthy and easy recipes to try out), allowing you to really sink your teeth into the lifestyle. If you prefer, you can also download our free [VeGuide](https://vegansociety.com/veguide) app which provides daily videos and tips over 30 days to help you go vegan. VeGuide is available on [Google Play Store](https://play.google.com/store/apps/details?id=com.vegansoc.veguide) and the [App Store](https://itunes.apple.com/gb/app/veguide/id1440723859?mt=8).
 
-The Vegan Pledge helps over a thousand people each month go vegan and stay vegan with its regularly updated tips and support, and we're proud to have received an abundance of [positive feedback](https://www.vegansociety.com/try-vegan/take-vegan-pledge/pledge-testimonials) from ex-Pledgers around the world. 
+The Vegan Pledge helps over a thousand people each month go vegan and stay vegan with its regularly updated tips and support, and we're proud to have received an abundance of [positive feedback](https://www.vegansociety.com/try-vegan/take-vegan-pledge/pledge-testimonials) from ex-Pledgers around the world.
 
 Let us know on our [Facebook](https://www.facebook.com/thevegansociety), [Twitter](https://twitter.com/home?status=I'm taking %40TheVeganSociety 30 Day %23VeganPledge! Get %23FREE %23recipes %26 advice for 30 days here%3A www.vegansociety.com/pledge) and [Instagram](https://www.instagram.com/theoriginalvegansociety) that you're taking the Vegan Pledge.
 
@@ -17,11 +17,11 @@ Remember to add [pledge@vegansociety.com](mailto:pledge@vegansociety.com) to you
 
 
 
-## Sign up to the 30 day Vegan Pledge 
+## Sign up to the 30 day Vegan Pledge
 
 [form]
 
-## Common questions 
+## Common questions
 
 Q: Do I need to be vegan to take the Pledge?
 
@@ -33,9 +33,9 @@ A: Not at all – sometimes even the most careful vegans get tripped up by somet
 
 ![img](https://www.vegansociety.com/sites/default/files/uploads/Pledge_385.jpg)
 
-Q: I have a specific question – where can I get help? 
+Q: I have a specific question – where can I get help?
 
-A: Our '[Resources](https://www.vegansociety.com/resources)' section is full of lifestyle information, nutrition advice, recipes and answers to frequently asked questions. Yet if you feel you have a question that only a human can answer, then you can contact us at [info@vegansociety.com](mailto:info@vegansociety.com) or link up with others through channels like [Facebook](https://www.facebook.com/TheVeganSociety) or [Twitter](https://twitter.com/TheVeganSociety) where you'll discover many friendly people happy to help. 
+A: Our '[Resources](https://www.vegansociety.com/resources)' section is full of lifestyle information, nutrition advice, recipes and answers to frequently asked questions. Yet if you feel you have a question that only a human can answer, then you can contact us at [info@vegansociety.com](mailto:info@vegansociety.com) or link up with others through channels like [Facebook](https://www.facebook.com/TheVeganSociety) or [Twitter](https://twitter.com/TheVeganSociety) where you'll discover many friendly people happy to help.
 
 We've been running the vegan pledge for many years. Over this time we've received countless emails from people saying that it was so much easier than they expected. A great deal of them say they wish they'd tried the lifestyle years ago, as they're so much happier, healthier and more content. For a lot of us, it's the best decision we ever make.
 

@@ -23,7 +23,7 @@ Switching to a vegan diet will help significantly reduce the world’s water req
 
 ### Water pollution
 
-Agriculture is also the number one water polluter. Slurry from cattle and other livestock pollutes groundwater, streams and rivers. The livestock sector is probably the [largest sectoral source of water pollution](ftp://ftp.fao.org/docrep/fao/010/a0701e/a0701e00.pdf). 
+Agriculture is also the number one water polluter. Slurry from cattle and other livestock pollutes groundwater, streams and rivers. The livestock sector is probably the [largest sectoral source of water pollution](ftp://ftp.fao.org/docrep/fao/010/a0701e/a0701e00.pdf).
 
 Manure and slurry contain high levels of nitrogen and phosphor.  These elements can leach into groundwater and run off to pollute lakes, killing the fish and endangering the health of other animals. Ammonia is also given off and can cause acid rain.
 
