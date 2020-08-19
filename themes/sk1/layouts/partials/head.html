@@ -21,9 +21,13 @@
   {{ template "_internal/site_favicon.html" . }}
 {{ end }}
 
-{{ if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production")  }}
+{{ if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production") }}
   {{ template "_internal/google_analytics_async.html" . }}
 {{ end }}
+
+{{- template "_internal/opengraph.html" . -}}
+{{- template "_internal/schema.html" . -}}
+{{- template "_internal/twitter_cards.html" . -}}
 
 {{ $stylesheet := .Site.Data.webpack_assets.app }}
 {{ with $stylesheet.css }}
