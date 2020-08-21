@@ -3,7 +3,7 @@ title: "Definition of veganism"
 date: 2020-07-25T17:40:32-03:00
 draft: true
 ---
-## Veganism is a way of living which seeks to exclude, as far as is possible and practicable, all forms of exploitation of, and cruelty to, animals for food, clothing or any other purpose.
+## Veganism is a way of living which seeks to exclude, as far as is possible and practicable, all forms of exploitation of, and cruelty to, animals for food, clothing or any other purpose
 
 **There are many ways to embrace vegan living. Yet one thing all vegans have in common is a plant-based diet avoiding all animal foods such as meat (including fish, shellfish and insects), dairy, eggs and [honey](https://www.vegansociety.com/go-vegan/why-honey-not-vegan) - as well as avoiding animal-derived materials, products tested on animals and places that use animals for entertainment.**
 
@@ -15,11 +15,13 @@ The society was first registered as a charity in August 1964 but its assets were
 
 > *"A philosophy and way of living which seeks to exclude—as far as is possible and practicable—all forms of exploitation of, and cruelty to, animals for food, clothing or any other purpose; and by extension, promotes the development and use of animal-free alternatives for the benefit of animals, humans and the environment. In dietary terms it denotes the practice of dispensing with all products derived wholly or partly from animals*."
 
-To read more on the history of veganism, [see here](https://www.vegansociety.com/sites/default/files/uploads/Ripened by human determination.pdf).
+To read more on the history of veganism, [see here](https://www.vegansociety.com/sites/default/files/uploads/Ripened%20by%20human%20determination.pdf).
 
 ## So what do vegans eat?
 
-![img](https://www.vegansociety.com/sites/default/files/uploads/grilled%20aubergine%20and%20courgette.jpg)A great deal - you'll soon find a whole new world of exciting foods and flavours opening up to you. A vegan diet is richly diverse and comprises all kinds of fruits, vegetables, nuts, grains, seeds, beans and pulses - all of which can be prepared in endless combinations that will ensure you're never bored. From curry to cake, pasties to pizzas, all your favourite things can be suitable for a vegan diet if they're made with plant-based ingredients. Check out our vegan [recipes](https://www.vegansociety.com/resources/recipes) for ideas.
+![img](https://www.vegansociety.com/sites/default/files/uploads/grilled%20aubergine%20and%20courgette.jpg)
+
+A great deal - you'll soon find a whole new world of exciting foods and flavours opening up to you. A vegan diet is richly diverse and comprises all kinds of fruits, vegetables, nuts, grains, seeds, beans and pulses - all of which can be prepared in endless combinations that will ensure you're never bored. From curry to cake, pasties to pizzas, all your favourite things can be suitable for a vegan diet if they're made with plant-based ingredients. Check out our vegan [recipes](https://www.vegansociety.com/resources/recipes) for ideas.
 
 ## It's not just about diet
 

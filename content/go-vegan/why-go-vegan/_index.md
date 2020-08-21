@@ -9,7 +9,7 @@ Preventing the exploitation of animals is not the only reason for becoming vegan
 
 ## For your health
 
-Well-planned vegan diets follow healthy eating guidelines, and contain all the nutrients that our bodies need. Both the [British Dietetic Association](https://www.vegansociety.com/society/whos-involved/partners/british-dietetic-association) and the [American Academy of Nutrition and Dietetics](http://www.eatrightpro.org/~/media/eatrightpro files/practice/position and practice papers/position papers/vegetarian-diet.ashx) recognise that they are suitable for every age and stage of life. Some research has linked vegan diets with lower blood pressure and cholesterol, and lower rates of heart disease, type 2 diabetes and some types of cancer.
+Well-planned vegan diets follow healthy eating guidelines, and contain all the nutrients that our bodies need. Both the [British Dietetic Association](https://www.vegansociety.com/society/whos-involved/partners/british-dietetic-association) and the [American Academy of Nutrition and Dietetics](http://www.eatrightpro.org/~/media/eatrightpro%20files/practice/position%20and%20practice%20papers/position%20papers/vegetarian-diet.ashx) recognise that they are suitable for every age and stage of life. Some research has linked vegan diets with lower blood pressure and cholesterol, and lower rates of heart disease, type 2 diabetes and some types of cancer.
 
 Going vegan is a great opportunity to learn more about nutrition and cooking, and improve your diet. Getting your nutrients from plant foods allows more room in your diet for health-promoting options like whole grains, fruit, nuts, seeds and vegetables, which are packed full of beneficial fibre, vitamins and minerals.
 
@@ -29,7 +29,7 @@ Just like veganism is the sustainable option when it comes to looking after our 
 
 ### ![turkey](https://www.vegansociety.com/sites/default/files/uploads/Turkey_960.JPG)
 
-###  Why vegetarian isn't enough
+### Why vegetarian isn't enough
 
 The suffering caused by the dairy and egg industry is possibly less well publicised than the plight of factory farmed animals. The production of dairy products necessitates the death of countless male calves that are of no use to the dairy farmer, as well as the premature death of cows slaughtered when their milk production decreases. Similarly, in the egg industry, even 'ethical' or 'free range' eggs involve the killing of the 'unnecessary' male chicks when just a day old.
 
@@ -41,4 +41,4 @@ It's tempting to want to believe that the meat we eat is ethical, that our 'food
 
 The good news is there IS something we can do about it. Every time we shop or order food in a restaurant - every time we eat - we can choose to help these animals. Every time we make the switch from an animal product to a vegan one we are standing up for farmed animals everywhere. Going vegan is easier than ever before with veganism becoming increasingly mainstream as more and more people from all walks of life discover the benefits of living this way.
 
- **It's time to ask ourselves: if it is now possible to live a life that involves delicious food and drink, delivers better health, leaves a smaller carbon footprint and avoids killing other creatures - then why don't we?**
+**It's time to ask ourselves: if it is now possible to live a life that involves delicious food and drink, delivers better health, leaves a smaller carbon footprint and avoids killing other creatures - then why don't we?**

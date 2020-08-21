@@ -5,7 +5,7 @@ draft: true
 ---
 ## All the nutrients without the animal products
 
-Many people grow up thinking that animal products like meat and milk are essential parts of a healthy diet. However, well-planned vegan diets follow healthy eating guidelines, and contain all the nutrients that our bodies need. Both the [British Dietetic Association](https://www.vegansociety.com/society/whos-involved/partners/british-dietetic-association) and the [American Academy of Nutrition and Dietetics](http://www.eatrightpro.org/~/media/eatrightpro files/practice/position and practice papers/position papers/vegetarian-diet.ashx) recognise that they are suitable for every age and stage of life.
+Many people grow up thinking that animal products like meat and milk are essential parts of a healthy diet. However, well-planned vegan diets follow healthy eating guidelines, and contain all the nutrients that our bodies need. Both the [British Dietetic Association](https://www.vegansociety.com/society/whos-involved/partners/british-dietetic-association) and the [American Academy of Nutrition and Dietetics](http://www.eatrightpro.org/~/media/eatrightpro%20files/practice/position%20and%20practice%20papers/position%20papers/vegetarian-diet.ashx) recognise that they are suitable for every age and stage of life.
 
 ### An opportunity to eat better
 

@@ -11,11 +11,9 @@ Everyone wants to feel healthier, lighter and more vibrant. Couple these fantast
 
 The Vegan Pledge helps over a thousand people each month go vegan and stay vegan with its regularly updated tips and support, and we're proud to have received an abundance of [positive feedback](https://www.vegansociety.com/try-vegan/take-vegan-pledge/pledge-testimonials) from ex-Pledgers around the world.
 
-Let us know on our [Facebook](https://www.facebook.com/thevegansociety), [Twitter](https://twitter.com/home?status=I'm taking %40TheVeganSociety 30 Day %23VeganPledge! Get %23FREE %23recipes %26 advice for 30 days here%3A www.vegansociety.com/pledge) and [Instagram](https://www.instagram.com/theoriginalvegansociety) that you're taking the Vegan Pledge.
+Let us know on our [Facebook](https://www.facebook.com/thevegansociety), [Twitter](https://twitter.com/home?status=I'm%20taking%20%40TheVeganSociety%2030%20Day%20%23VeganPledge!%20Get%20%23FREE%20%23recipes%20%26%20advice%20for%2030%20days%20here%3A%20www.vegansociety.com%2Fpledge) and [Instagram](https://www.instagram.com/theoriginalvegansociety) that you're taking the Vegan Pledge.
 
 Remember to add [pledge@vegansociety.com](mailto:pledge@vegansociety.com) to your senders list, and check your junk mail if you do not receive an email in the next few hours. Read some [common questions](https://www.vegansociety.com/go-vegan/take-vegan-pledge#cq) about the Vegan Pledge, below.
-
-
 
 ## Sign up to the 30 day Vegan Pledge
 

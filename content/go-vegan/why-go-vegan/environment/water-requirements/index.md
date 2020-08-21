@@ -9,7 +9,9 @@ The world will only have 60% of the water it needs by 2030 without significant g
 
 This situation is predicted to worsen as our population expands and consumption per capita increases with more and more people adopting resource-intensive Western meat eating habits.
 
-### How your diet can help ![img](https://www.vegansociety.com/sites/default/files/uploads/shutterstock_376957510.jpg)
+### How your diet can help
+
+![img](https://www.vegansociety.com/sites/default/files/uploads/shutterstock_376957510.jpg)
 
 Although statistics vary, it is safe to say that it takes at least three times the amount of water to feed a meat eater compared with that used to feed a vegan. For example, it takes [15,500 litres of water to produce 1 kg beef](http://www.worldwaterweek.org/bestwaterideas/), contrasted with 180 litres for 1 kg tomatoes and 250 litres for 1 kg potatoes.
 

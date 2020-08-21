@@ -19,8 +19,6 @@ If we are trying to reduce our car use, limit the amount of water we waste, beco
 
 Studies indicate that a varied vegan diet requires about a third of the land needed for conventional Western diets....[(Read more)](https://www.vegansociety.com/go-vegan/environment/food-security)
 
-
-
 [![img](https://www.vegansociety.com/sites/default/files/styles/teaser_image/public/shutterstock_380538040.jpg?itok=DB3Da_Ck)](https://www.vegansociety.com/go-vegan/environment/water-requirements)
 
 ## [Water requirements](https://www.vegansociety.com/go-vegan/environment/water-requirements)

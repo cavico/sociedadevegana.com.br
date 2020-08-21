@@ -5,7 +5,9 @@ draft: true
 ---
 ## Download our free VeGuide app, it's everything you need to start your vegan journey
 
-[![Download VeGuide from Google Play](https://www.vegansociety.com/sites/default/files/uploads/veguide/google_play_button.png)](https://play.google.com/store/apps/details?id=com.vegansoc.veguide)[![img](https://www.vegansociety.com/sites/default/files/uploads/veguide/app_store_button.png)](https://itunes.apple.com/gb/app/veguide/id1440723859?mt=8)
+[![Download VeGuide from Google Play](https://www.vegansociety.com/sites/default/files/uploads/veguide/google_play_button.png)](https://play.google.com/store/apps/details?id=com.vegansoc.veguide)
+
+[![img](https://www.vegansociety.com/sites/default/files/uploads/veguide/app_store_button.png)](https://itunes.apple.com/gb/app/veguide/id1440723859?mt=8)
 
 ![img](https://www.vegansociety.com/sites/default/files/uploads/veguide/veguide%20screenshot%201.jpg)
 

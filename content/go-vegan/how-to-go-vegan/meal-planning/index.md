@@ -36,4 +36,4 @@ VEG 1
 
 ## Since you're here...
 
-*[Join us ](https://www.vegansociety.com/get-involved/membership)as a member and support the vegan movement from just £2 a month. Since 1944, our members have been integral to supporting us as we spread the vegan message, help vulnerable vegans in need and work with institutions and governments to turn the world vegan. As a reward, you'll receive over 100 vegan-friendly discounts, The Vegan quarterly magazine, podcast extra, access to a vegan dietitian and a community of vegans and much more.*
+*[Join us](https://www.vegansociety.com/get-involved/membership)as a member and support the vegan movement from just £2 a month. Since 1944, our members have been integral to supporting us as we spread the vegan message, help vulnerable vegans in need and work with institutions and governments to turn the world vegan. As a reward, you'll receive over 100 vegan-friendly discounts, The Vegan quarterly magazine, podcast extra, access to a vegan dietitian and a community of vegans and much more.*

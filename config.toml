@@ -5,7 +5,7 @@ title = "Sociedade Vegana"
 theme = "sk1"
 
 SectionPagesMenu = "main"
-Paginate = 30
+Paginate = 300
 googleAnalytics = "UA-22147311-21"
 enableRobotsTXT = true
 
